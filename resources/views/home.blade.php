@@ -40,10 +40,7 @@ https://templatemo.com/tm-542-new-vision
                         <nav class="navbar navbar-expand-lg">
 
                             <!-- Collapse button -->
-                            <button class="navbar-toggler toggler-example" type="button" data-toggle="collapse"
-                                data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1"
-                                aria-expanded="false" aria-label="Toggle navigation"><span class="dark-blue-text"><i
-                                        class="fas fa-bars fa-1x"></i></span></button>
+                            <button class="navbar-toggler toggler-example" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"><span class="dark-blue-text"><i class="fas fa-bars fa-1x"></i></span></button>
 
                             <!-- Collapsible content -->
                             <div class="collapse navbar-collapse tm-nav" id="navbarSupportedContent1">
@@ -51,8 +48,7 @@ https://templatemo.com/tm-542-new-vision
                                 <!-- Links -->
                                 <ul class="navbar-nav mr-auto">
                                     <li class="nav-item active">
-                                        <a class="nav-link tm-nav-link" href="{{asset('home')}}">Home <span
-                                                class="sr-only">(current)</span></a>
+                                        <a class="nav-link tm-nav-link" href="{{asset('home')}}">Home <span class="sr-only">(current)</span></a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link tm-nav-link" href="{{asset('company')}}">Our Company</a>
@@ -119,8 +115,7 @@ https://templatemo.com/tm-542-new-vision
                             <a href="#" class="tm-article-link">
                                 <h3 class="tm-article-title text-uppercase">Most unique idea ever made</h3>
                             </a>
-                            <p>Aliquam purus arcu, congue a gravida ac, facilisis vel erat. Maecenas. <span
-                                    class="tm-hover-color">Hover #09F</span></p>
+                            <p>Aliquam purus arcu, congue a gravida ac, facilisis vel erat. Maecenas. <span class="tm-hover-color">Hover #09F</span></p>
                         </div>
                     </article>
                     <article class="col-lg-6 tm-media">
@@ -148,8 +143,7 @@ https://templatemo.com/tm-542-new-vision
                         <article class="tm-dotted-box">
                             <i class="fas fa-3x fa-microscope tm-article-icon"></i>
                             <h3 class="tm-article-title">New Vision</h3>
-                            <p class="tm-article-text"><a rel="nofollow" target="_parent"
-                                    href="https://templatemo.com/tm-542-new-vision">New Vision</a> comes with 4
+                            <p class="tm-article-text"><a rel="nofollow" target="_parent" href="https://templatemo.com/tm-542-new-vision">New Vision</a> comes with 4
                                 different HTML pages and provided free of charge by TemplateMo. You can add more pages
                                 if you need. Text color is #666</p>
                         </article>
@@ -230,8 +224,7 @@ https://templatemo.com/tm-542-new-vision
             <footer>
                 Copyright &copy; 2020 New Vision
 
-                - Design: <a href="https://templatemo.com" rel="sponsored" target="_parent"
-                    title="css templates">TemplateMo</a>
+                - Design: <a href="https://templatemo.com" rel="sponsored" target="_parent" title="css templates">TemplateMo</a>
             </footer>
 
         </main>
